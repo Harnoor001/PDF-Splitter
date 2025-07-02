@@ -15,8 +15,8 @@ This project provides a simple tool to split PDF files into two parts at a user-
 2. Upload a PDF when prompted.
 3. Enter the page number where you want to split the PDF.
 4. The notebook will generate:
-a. part1.pdf – pages before the split point
-b. part2.pdf – pages from the split point onward
+(a) part1.pdf – pages before the split point
+(b) part2.pdf – pages from the split point onward
 5. Download the output files to your local system.
 
 
